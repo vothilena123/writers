@@ -1,0 +1,7 @@
+E:\Advanced programming\Lab1_exercise2\Lab1_exercise2\bin\Debug\Lab1_exercise2.exe.config
+E:\Advanced programming\Lab1_exercise2\Lab1_exercise2\bin\Debug\Lab1_exercise2.exe
+E:\Advanced programming\Lab1_exercise2\Lab1_exercise2\bin\Debug\Lab1_exercise2.pdb
+E:\Advanced programming\Lab1_exercise2\Lab1_exercise2\obj\Debug\Lab1_exercise2.csproj.AssemblyReference.cache
+E:\Advanced programming\Lab1_exercise2\Lab1_exercise2\obj\Debug\Lab1_exercise2.csproj.CoreCompileInputs.cache
+E:\Advanced programming\Lab1_exercise2\Lab1_exercise2\obj\Debug\Lab1_exercise2.exe
+E:\Advanced programming\Lab1_exercise2\Lab1_exercise2\obj\Debug\Lab1_exercise2.pdb
